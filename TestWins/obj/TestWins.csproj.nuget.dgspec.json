@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jerem\\Desktop\\satwins\\TestWins\\TestWins.csproj": {}
+    "C:\\Users\\Lynsy\\source\\repos\\winforms-sql-connection\\TestWins\\TestWins.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jerem\\Desktop\\satwins\\TestWins\\TestWins.csproj": {
+    "C:\\Users\\Lynsy\\source\\repos\\winforms-sql-connection\\TestWins\\TestWins.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jerem\\Desktop\\satwins\\TestWins\\TestWins.csproj",
+        "projectUniqueName": "C:\\Users\\Lynsy\\source\\repos\\winforms-sql-connection\\TestWins\\TestWins.csproj",
         "projectName": "TestWins",
-        "projectPath": "C:\\Users\\jerem\\Desktop\\satwins\\TestWins\\TestWins.csproj",
-        "packagesPath": "C:\\Users\\jerem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jerem\\Desktop\\satwins\\TestWins\\obj\\",
+        "projectPath": "C:\\Users\\Lynsy\\source\\repos\\winforms-sql-connection\\TestWins\\TestWins.csproj",
+        "packagesPath": "C:\\Users\\Lynsy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lynsy\\source\\repos\\winforms-sql-connection\\TestWins\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\jerem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lynsy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net10.0-windows7.0": {
@@ -74,7 +74,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
