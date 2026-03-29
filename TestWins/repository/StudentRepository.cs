@@ -79,6 +79,8 @@ public class StudentRepository
 
         using var cmd = new MySqlCommand(query, conn);
 
+        cmd.Parameters.AddWithValue("@id", id);
+        
         cmd.ExecuteNonQuery();
     }
 
